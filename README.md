@@ -7,8 +7,9 @@ I am a dedicated MERN Stack Developer skilled in Node.js, Express.js, React.js, 
 
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MongoDB,MySql
 - **Tools**: Git, GitHub, VS Code
+- - **Coding Plateform**:Leetcode (more than 350 problem solved)
 
 ## 📫 How to reach me
 
