@@ -1,16 +1,17 @@
-## Hi there 👋
+###About Me
+# Hi there, I'm Dipak Zende👋
 
-<!--
-**dipak307/Dipak307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated MERN Stack Developer skilled in Node.js, Express.js, React.js, and MongoDB. With a strong foundation in full-stack web development, I specialize in building dynamic, high-performance web applications. My expertise lies in creating scalable backend services, developing responsive and intuitive user interfaces, and ensuring seamless integration across the entire application stack. I am passionate about leveraging my skills to solve complex problems and deliver impactful solutions
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Tools**: Git, GitHub, VS Code
+
+## 📫 How to reach me
+
+- LinkedIn:-https://www.linkedin.com/in/dipak-zende-214375179
+- Email:-deepakzende307@gmail.com
+
